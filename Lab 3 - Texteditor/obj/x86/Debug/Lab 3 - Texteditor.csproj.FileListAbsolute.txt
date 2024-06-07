@@ -1,0 +1,90 @@
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\App.xbf
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\MainPage.xbf
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.xr.xml
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.exe
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.pdb
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\resources.pri
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\AppxManifest.xml
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Core\Lab 3 - Texteditor.exe
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.build.appxrecipe
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\System.Runtime.dll
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.csproj.AssemblyReference.cache
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.g.i.cs
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.g.cs
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.g.cs
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.xaml
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.xaml
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.xbf
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.xbf
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.csproj.CoreCompileInputs.cache
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.csproj.CopyComplete
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.exe
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.pdb
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\priconfig.xml
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\resources.resfiles
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\pri.resfiles
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\qualifiers.txt
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\titi_\Desktop\C#.NET - Karlstad\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\App.xbf
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\MainPage.xbf
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.xr.xml
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.exe
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.pdb
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\resources.pri
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\AppxManifest.xml
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Core\AppxManifest.xml
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Core\Lab 3 - Texteditor.exe
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Lab 3 - Texteditor.build.appxrecipe
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\System.Runtime.dll
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.csproj.AssemblyReference.cache
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.g.i.cs
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.g.cs
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.g.i.cs
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.g.cs
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.xaml
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.xaml
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\App.xbf
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MainPage.xbf
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.csproj.CoreCompileInputs.cache
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.csproj.CopyComplete
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.exe
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\Lab 3 - Texteditor.pdb
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\ResourceHandlingTask.state
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\priconfig.xml
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\priconfig.xml.intermediate
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\filtered.layout.resfiles
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\excluded.layout.resfiles
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\resources.resfiles
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\resources.resfiles.intermediate
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\pri.resfiles
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\pri.resfiles.intermediate
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\qualifiers.txt
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\ProjectArchitectures.txt
+D:\Coding and Studies\Microsoft\Lab 3\Lab 3 - Texteditor\Lab 3 - Texteditor\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
